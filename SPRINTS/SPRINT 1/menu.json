@@ -1,0 +1,53 @@
+{
+  "bienvenida": "✨ Hola, soy AIuda ✨\n\nEstoy aquí para acompañarte en este momento.\nSoy una herramienta de apoyo emocional, pero recuerda que no sustituyo la ayuda profesional.",
+  "menu_principal": {
+    "titulo": "¿Qué te gustaría hacer hoy?",
+    "opciones": [
+      {
+        "id": 1,
+        "emoji": "🫁",
+        "nombre": "Técnicas de Respiración",
+        "descripcion": "Ejercicios de respiración para calmar la ansiedad y el estrés",
+        "categoria": "respiracion"
+      },
+      {
+        "id": 2,
+        "emoji": "🌍",
+        "nombre": "Técnicas de Grounding",
+        "descripcion": "Conecta con el presente a través de tus sentidos",
+        "categoria": "grounding"
+      },
+      {
+        "id": 3,
+        "emoji": "🧘",
+        "nombre": "Mindfulness y Meditación",
+        "descripcion": "Prácticas de atención plena y meditación guiada",
+        "categoria": "mindfulness"
+      },
+      {
+        "id": 4,
+        "emoji": "✍️",
+        "nombre": "Escritura Terapéutica",
+        "descripcion": "Expresa tus emociones a través de la escritura",
+        "categoria": "escritura"
+      },
+      {
+        "id": 5,
+        "emoji": "💭",
+        "nombre": "Explorar Estado Emocional",
+        "descripcion": "Identifica y comprende cómo te sientes ahora",
+        "categoria": "emocional"
+      },
+      {
+        "id": 6,
+        "emoji": "🆘",
+        "nombre": "Necesito Ayuda Urgente",
+        "descripcion": "Información de contacto para ayuda profesional inmediata",
+        "categoria": "urgente"
+      }
+    ]
+  },
+  "ayuda_urgente": {
+    "mensaje": "🆘 Si estás en una situación de emergencia, por favor contacta:\n\n📞 Línea de Prevención del Suicidio: 113\n📞 Emergencias: 911\n📞 Salud Mental (Perú): 0800-00-959\n\n💚 Tu vida importa. Hay profesionales disponibles 24/7 para ayudarte."
+  }
+}
