@@ -1,0 +1,76 @@
+{
+  "respiracion": {
+    "introduccion": "Perfecto 🌿 Vamos a hacer juntos un ejercicio de respiración consciente.\n\nBusca un lugar cómodo donde puedas sentarte o recostarte. Cuando estés listo, escribe 'continuar'.",
+    "pasos": [
+      {
+        "id": 1,
+        "instruccion": "Inhala profundamente por la nariz durante 4 segundos... 🌬️\n\nSiente cómo el aire llena tus pulmones.\n\nEscribe 'ok' cuando hayas terminado."
+      },
+      {
+        "id": 2,
+        "instruccion": "Ahora mantén el aire por 4 segundos... ⏸️\n\nObserva cómo se siente tu cuerpo en este momento.\n\nEscribe 'ok' para continuar."
+      },
+      {
+        "id": 3,
+        "instruccion": "Exhala lentamente por la boca durante 6 segundos... 💨\n\nDeja salir toda la tensión con el aire.\n\nEscribe 'ok' cuando termines."
+      },
+      {
+        "id": 4,
+        "instruccion": "Excelente 👏\n\nVamos a repetir el ciclo una vez más.\n\nInhala profundamente por 4 segundos... 🌬️\n\nEscribe 'ok' cuando estés listo."
+      },
+      {
+        "id": 5,
+        "instruccion": "Mantén el aire por 4 segundos... ⏸️\n\nEscribe 'ok'."
+      },
+      {
+        "id": 6,
+        "instruccion": "Exhala lentamente durante 6 segundos... 💨\n\nMuy bien hecho.\n\nEscribe 'ok' para finalizar."
+      }
+    ],
+    "cierre": "✨ Excelente trabajo ✨\n\n¿Cómo te sientes ahora? ¿Un poco más tranquilo?\n\nRecuerda que puedes hacer este ejercicio siempre que lo necesites.\n\nEscribe *menu* para volver a las opciones."
+  },
+  "grounding": {
+    "introduccion": "Muy bien 🌍 La técnica de grounding te ayudará a conectar con el presente.\n\nVamos a usar tus 5 sentidos para anclar tu atención en el aquí y ahora.\n\nEscribe 'continuar' cuando estés listo.",
+    "pasos": [
+      {
+        "id": 1,
+        "instruccion": "Paso 1: Vista 👀\n\nMira a tu alrededor y nombra **5 cosas** que puedas ver.\n\nPueden ser objetos, colores, formas... lo que sea.\n\nTómate tu tiempo y escribe lo que observas."
+      },
+      {
+        "id": 2,
+        "instruccion": "Muy bien 👍\n\nPaso 2: Tacto ✋\n\nAhora identifica **4 cosas** que puedas tocar.\n\nPuede ser la textura de tu ropa, la silla, una mesa...\n\nEscribe lo que sientes al tocarlas."
+      },
+      {
+        "id": 3,
+        "instruccion": "Excelente 🎵\n\nPaso 3: Oído 👂\n\nConcentra tu atención en **3 sonidos** que puedas escuchar en este momento.\n\nPueden ser cercanos o lejanos, fuertes o sutiles.\n\n¿Qué escuchas?"
+      },
+      {
+        "id": 4,
+        "instruccion": "Perfecto 👃\n\nPaso 4: Olfato 🌸\n\nIdentifica **2 cosas** que puedas oler.\n\nPuede ser un aroma en el ambiente, tu perfume, el aire...\n\n¿Qué percibes?"
+      },
+      {
+        "id": 5,
+        "instruccion": "Casi terminamos 😊\n\nPaso 5: Gusto 👅\n\nPiensa en **1 sabor** que puedas percibir o recordar.\n\nPuede ser el sabor de tu boca, de algo que comiste, o simplemente algo que te guste.\n\n¿Qué sabor viene a tu mente?"
+      }
+    ],
+    "cierre": "🎉 ¡Lo lograste! 🎉\n\nHas completado el ejercicio de grounding.\n\nEste ejercicio te ayuda a volver al presente cuando te sientas abrumado o ansioso.\n\n¿Te sientes más conectado con el momento actual?\n\nEscribe *menu* para volver a las opciones principales."
+  },
+  "mindfulness": {
+    "introduccion": "🧘 Vamos a practicar un momento de mindfulness (atención plena).\n\nEste ejercicio te ayudará a calmar tu mente y conectar con el presente.\n\nBusca un lugar tranquilo y escribe 'continuar' cuando estés listo.",
+    "pasos": [
+      {
+        "id": 1,
+        "instruccion": "Siéntate cómodamente y cierra los ojos si te sientes seguro haciéndolo.\n\nRespira naturalmente, sin forzar nada.\n\nSimplemente observa tu respiración... ¿Cómo entra el aire? ¿Cómo sale?\n\nEscribe 'ok' cuando hayas observado algunas respiraciones."
+      },
+      {
+        "id": 2,
+        "instruccion": "Ahora lleva tu atención a tu cuerpo.\n\n¿Sientes tensión en algún lugar? ¿Hombros, mandíbula, frente?\n\nNo intentes cambiar nada, solo observa con curiosidad y amabilidad.\n\nEscribe 'ok' para continuar."
+      },
+      {
+        "id": 3,
+        "instruccion": "Si tu mente empieza a divagar con pensamientos, está bien.\n\nEs completamente normal. Solo nota que estás pensando y, con suavidad, vuelve tu atención a tu respiración.\n\nNo hay manera incorrecta de hacer esto.\n\nEscribe 'ok' cuando estés listo."
+      }
+    ],
+    "cierre": "✨ Muy bien hecho ✨\n\nCada vez que practicas mindfulness, fortaleces tu capacidad de estar presente.\n\nRecuerda: no se trata de vaciar la mente, sino de observar con amabilidad lo que surge.\n\nEscribe *menu* para volver al inicio."
+  }
+}
